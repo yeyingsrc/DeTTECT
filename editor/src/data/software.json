@@ -7596,6 +7596,50 @@
         "Windows"
       ],
       "autosuggest": "S9039 - LazyWiper"
+    },
+    {
+      "software_id": "S9041",
+      "software_name": "TeamPCP Cloud Stealer",
+      "platforms": [
+        "Containers",
+        "Linux",
+        "SaaS",
+        "Windows",
+        "macOS"
+      ],
+      "autosuggest": "S9041 - TeamPCP Cloud Stealer"
+    },
+    {
+      "software_id": "S9042",
+      "software_name": "CanisterWorm",
+      "platforms": [
+        "Containers",
+        "Linux"
+      ],
+      "autosuggest": "S9042 - CanisterWorm"
+    },
+    {
+      "software_id": "S9043",
+      "software_name": "Mini Shai-Hulud",
+      "platforms": [
+        "Containers",
+        "IaaS",
+        "Linux",
+        "SaaS",
+        "Windows",
+        "macOS"
+      ],
+      "autosuggest": "S9043 - Mini Shai-Hulud"
+    },
+    {
+      "software_id": "S9044",
+      "software_name": "Kali365",
+      "platforms": [
+        "IaaS",
+        "Windows",
+        "macOS"
+      ],
+      "autosuggest": "S9044 - Kali365"
     }
   ],
   "ATT&CK-ICS": [
